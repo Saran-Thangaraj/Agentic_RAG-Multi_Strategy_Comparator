@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+chroma_chunks_db/
+*.pdf
+lggen/
+.ipynb_checkpoints/
